@@ -24,3 +24,7 @@ On the other hand, the admin can easily control the whole system. Admin can do e
 
 Users will be able to easily open an account via their email and receive all exciting services. It is hoped that using this application will save them valuable time and money. By using this application consumers and sellers are going to be benefited.
 The project is developed by Dart programming language through the Flutter framework. The easy interface and functionality help users and admin to manage the applying simply.
+
+## Project Output
+
+![Output of live project](./assets/output/demovideo.mp4);
