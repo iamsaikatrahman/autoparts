@@ -27,4 +27,15 @@ The project is developed by Dart programming language through the Flutter framew
 
 ## Project Output
 
-![Output of live project](./assets/output/demovideo.mp4);
+![autopartslogo](./assets/output/autopartslogo.png)
+![autopartsadminlogo](./assets/output/adminicon.png)
+
+![Output of live project](./assets/output/demovideo.gif);
+
+![screenshort1](./assets/output/p1.png)
+![screenshort2](./assets/output/p2.png)
+![screenshort3](./assets/output/p3.png)
+![screenshort4](./assets/output/p4.png)
+![screenshort5](./assets/output/p5.png)
+![screenshort6](./assets/output/p6.png)
+![screenshort7](./assets/output/p7.png)
