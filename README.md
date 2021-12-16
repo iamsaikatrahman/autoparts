@@ -1,19 +1,6 @@
-# autoparts
+# AutoParts BD
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![autopartslogo](./assets/output/logo.png)
 
 ## Project Description
 
@@ -25,10 +12,20 @@ On the other hand, the admin can easily control the whole system. Admin can do e
 Users will be able to easily open an account via their email and receive all exciting services. It is hoped that using this application will save them valuable time and money. By using this application consumers and sellers are going to be benefited.
 The project is developed by Dart programming language through the Flutter framework. The easy interface and functionality help users and admin to manage the applying simply.
 
-## Project Output
+## Objective
 
-![autopartslogo](./assets/output/autopartslogo.png)
-![autopartsadminlogo](./assets/output/adminicon.png)
+The objective of the project Daily online searching is to switch searching system that helps the client to order product and conjointly the sellers to manage the sell simply and paying the bill exploitation online devices like pc, Smartphone, Tablet, etc. Though some days ago, People are worried the shopping goes to market physically and buy the specified products or service by the exchange of money during a selected time. But nowadays, The act of shopping for products or services over the web. Online searching has grown up in quality over the years, mainly because people find it convenient and simple to bargain shop from the comfort of their home or office. one among the chief alluring components about internet shopping, especially during a get-away season, is it reduces the need to go to in long queues or search from store to store for a particular item. Also, the seller may not head to the precise location in an exceedingly particular period to sell their products. In online shopping sellers get their freedoms to sell their products 24/7 during a very week from anywhere.
+There are several objectives of the project. they're as follows:
+• To provide a user-friendly interface to seem at different products which the consumer wants to shop for.
+• Reduce management costs.
+• Providing a unique customer experience.
+• The number of loyal customers is increasing.
+• To provide all exciting service features such as car wash, car maintenance, car repair, car denting and painting, car tire replacement, car windshield replacement, etc.
+• To give a chance to open an account if any products are chosen by a customer online.
+• To give a chance to pay product price online without being physically present in a specific place.
+• To make the shopping system hassle-free and time-saving.
+
+## Project Output
 
 ![Output of live project](./assets/output/demovideo.gif);
 
