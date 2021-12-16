@@ -25,6 +25,10 @@ There are several objectives of the project. they're as follows:
 • To give a chance to pay product price online without being physically present in a specific place.
 • To make the shopping system hassle-free and time-saving.
 
+## AdminSide
+
+![admin side](https://github.com/iamsaikatrahman/autopartsadmin)
+
 ## Project Output
 
 ![Output of live project](./assets/output/demovideo.gif);
