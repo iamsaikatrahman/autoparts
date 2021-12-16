@@ -1,6 +1,6 @@
 # AutoParts BD
 
-![autopartslogo](./assets/output/logo.png)
+![logo](./assets/output/logo.png)
 
 ## Project Description
 
@@ -27,7 +27,7 @@ There are several objectives of the project. they're as follows:
 
 ## AdminSide
 
-![admin side](https://github.com/iamsaikatrahman/autopartsadmin)
+[Admin Side](https://github.com/iamsaikatrahman/autopartsadmin)
 
 ## Project Output
 
