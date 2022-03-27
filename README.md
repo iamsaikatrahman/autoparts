@@ -15,15 +15,17 @@ The project is developed by Dart programming language through the Flutter framew
 ## Objective
 
 The objective of the project Daily online searching is to switch searching system that helps the client to order product and conjointly the sellers to manage the sell simply and paying the bill exploitation online devices like pc, Smartphone, Tablet, etc. Though some days ago, People are worried the shopping goes to market physically and buy the specified products or service by the exchange of money during a selected time. But nowadays, The act of shopping for products or services over the web. Online searching has grown up in quality over the years, mainly because people find it convenient and simple to bargain shop from the comfort of their home or office. one among the chief alluring components about internet shopping, especially during a get-away season, is it reduces the need to go to in long queues or search from store to store for a particular item. Also, the seller may not head to the precise location in an exceedingly particular period to sell their products. In online shopping sellers get their freedoms to sell their products 24/7 during a very week from anywhere.
-There are several objectives of the project. they're as follows:
-• To provide a user-friendly interface to seem at different products which the consumer wants to shop for.
-• Reduce management costs.
-• Providing a unique customer experience.
-• The number of loyal customers is increasing.
-• To provide all exciting service features such as car wash, car maintenance, car repair, car denting and painting, car tire replacement, car windshield replacement, etc.
-• To give a chance to open an account if any products are chosen by a customer online.
-• To give a chance to pay product price online without being physically present in a specific place.
-• To make the shopping system hassle-free and time-saving.
+There are several objectives of the project. they're as follows: 
+
+
+• To provide a user-friendly interface to seem at different products which the consumer wants to shop for. <br />
+• Reduce management costs. <br />
+• Providing a unique customer experience. <br />
+• The number of loyal customers is increasing. <br />
+• To provide all exciting service features such as car wash, car maintenance, car repair, car denting and painting, car tire replacement, car windshield replacement, etc. <br />
+• To give a chance to open an account if any products are chosen by a customer online. <br />
+• To give a chance to pay product price online without being physically present in a specific place. <br />
+• To make the shopping system hassle-free and time-saving. <br />
 
 ## AdminSide
 
